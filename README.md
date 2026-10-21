@@ -22,6 +22,7 @@ Recuperación de la evidencia: Se localizó la entrada de directorio no asignada
 
 📊 Tabla de Evidencias y Cadena de Custodia
 ---------------------------------------------------------------------------------------
+
 Parámetro / Componente Detalles de la Evidencia 
 
 IP Atacante / Listener192.168.1.100  
@@ -49,6 +50,7 @@ Herramientas UtilizadasNetcat, ss, htop, pfSense, Guymager, Autopsy
 Estado de Recuperación ✅ Completado y Verificado
 
 ---------------------------------------------------------------------------------------
+
 
 
 <img width="1305" height="768" alt="Captura de pantalla 2026-05-08 112546" src="https://github.com/user-attachments/assets/d2232082-a657-4361-a1ba-0992ed782a09" />
