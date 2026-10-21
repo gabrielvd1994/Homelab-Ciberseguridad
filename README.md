@@ -46,7 +46,8 @@ Imagen Forense Generadaevidencia_caso.dd (vía Guymager)
 
 Herramientas UtilizadasNetcat, ss, htop, pfSense, Guymager, Autopsy   
 
-Estado de Recuperación✅ Completado y Verificado
+Estado de Recuperación ✅ Completado y Verificado
+
 ---------------------------------------------------------------------------------------
 
 
